@@ -91,13 +91,3 @@ See `data/raw/all_sessions_results.csv` columns:
 (Additional columns cover temperature, clock frequency, utilization,
 throttle-state fractions, and idle-power baselines — see the paper's
 Implementation section, §4, for details.)
-
-## Citation
-
-If you use this code or data, please cite the paper (see
-`CITATION.cff`).
-
-## License
-
-Code is released under the MIT License (see `LICENSE`). Data files
-are released under CC BY 4.0.
